@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "anirudha_patil",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@anirudha_patil/repo-color-utility-package": "^1.0.0"
+  }
 }
