@@ -5,8 +5,8 @@
 
 <p align="center">
     <img src="https://img.shields.io/npm/v/@anirudha_patil/repo-color-utility-package.svg" alt="npm version">
-    <img src="https://img.shields.io/npm/dm/@anirudha_patil/repo-color-utility-package.svg" alt="npm downloads">
-    <img src="https://img.shields.io/github/license/anirudha_patil/repo-color-utility-package.svg" alt="license">
+<!--     <img src="https://img.shields.io/npm/dm/@anirudha_patil/repo-color-utility-package.svg" alt="npm downloads">
+    <img src="https://img.shields.io/github/license/anirudha_patil/repo-color-utility-package.svg" alt="license"> -->
 </p>
 
 Color Utilities is a simple npm package that offers convenient utility functions for working with colors in JavaScript.
