@@ -16,6 +16,7 @@ function generateRandomColor(){
     const b = Math.floor(Math.random() * 256);
 
     const rgbColor =  `rgb(${r}, ${g}, ${b})`;
+    
     return rgbColor;
 }
 
