@@ -9,6 +9,6 @@
   "author": "anirudha_patil",
   "license": "MIT",
   "dependencies": {
-    "repo-color-utility-package": "^1.0.0"
+    "repo-color-utility-package": "^1.0.1"
   }
 }
