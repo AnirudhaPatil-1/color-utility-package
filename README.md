@@ -1,7 +1,10 @@
 
 <!-- Add a colorful banner image here that represents your package, if desired -->
 
-![Banner](./banner.svg)
+<!-- ![Banner](./banner.png) -->
+<div align="center">
+  <img src="./banner.png" alt="Banner" width="1200" height="500">
+</div>
 
 # 🌈 Color Utilities
 
