@@ -1,6 +1,6 @@
 {
   "name": "repo-color-utility-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,31 @@
   "author": "anirudha_patil",
   "license": "MIT",
   "dependencies": {
-    "repo-color-utility-package": "^1.0.1"
-  }
+    "repo-color-utility-package": "^1.0.0"
+  },
+  "keywords":  [
+    "hex",
+    "rgb",
+    "color",
+    "utility",
+    "javascript",
+    "web",
+    "web-design",
+    "design",
+    "frontend",
+    "development",
+    "graphics",
+    "manipulation",
+    "conversion",
+    "library",
+    "npm",
+    "package",
+    "tool",
+    "programming",
+    "developer",
+    "code",
+    "rgb to hex",
+    "random color generator"
+    
+  ]
 }
