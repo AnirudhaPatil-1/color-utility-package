@@ -1,12 +1,4 @@
-
-<!-- Add a colorful banner image here that represents your package, if desired -->
-
-<!-- ![Banner](./banner.png) -->
-<div align="center">
-  <img src="./banner.png" alt="Banner" width="1200" height="500">
-</div>
-
-# 🌈 Color Utilities
+# 🌈 repo-color-utility-package
 
 [![npm version](https://img.shields.io/npm/v/repo-color-utility-package.svg)](https://www.npmjs.com/package/repo-color-utility-package)
 
