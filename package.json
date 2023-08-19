@@ -1,5 +1,5 @@
 {
-  "name": "@anirudha_patil/repo-color-utility-package",
+  "name": "repo-color-utility-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "anirudha_patil",
   "license": "MIT",
   "dependencies": {
-    "@anirudha_patil/repo-color-utility-package": "^1.0.0"
+    "repo-color-utility-package": "^1.0.0"
   }
 }
